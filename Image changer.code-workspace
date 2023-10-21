@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../counter project"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Image changer"
+  }
+}
